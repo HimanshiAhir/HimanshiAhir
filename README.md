@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshi Ahir</h1>
 <h3 align="center">UI/UX Designer | HTML | CSS | Bootstrap | Figma | Webflow</h3>
 
-<p align="center"><img src="https://ibb.co/ZSTk9xN" alt="himanshi style="width: 100%; height: 100%"></p>
+<p align="center"><img src="https://i.ibb.co/42N5kpJ/Himanshi-Ahir-UI-UX-Developer.png" alt="Himanshi-Ahir-UI-UX-Developer" border="0"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshiahir&label=Profile%20views&color=0e75b6&style=flat" alt="himanshiahir" /> </p>
 
 - 🔭 I’m currently working on [Invention Funder](https://pragya.dbtechserver.online/inventerFunder/public/)
