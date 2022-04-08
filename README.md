@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Invention Funder](https://pragya.dbtechserver.online/inventerFunder/public/)
 
-- 👨‍💻 All of my projects are available at [himanshiahir.com](himanshiahir.com)
+- 👨‍💻 All of my projects are available at [himanshiahir.com](https://himanshiahir.com)
 
 - 📫 How to reach me **himanshiahir06@gmail.com**
 
