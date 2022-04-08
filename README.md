@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshi Ahir</h1>
 <h3 align="center">UI/UX Designer | HTML | CSS | Bootstrap | Figma | Webflow</h3>
-<p align="center"><img src="https://i.ibb.co/42N5kpJ/Himanshi-Ahir-UI-UX-Developer.png" alt="Himanshi-Ahir-UI-UX-Developer" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/1mJz3w5/Himanshi-Ahir-UI-UX-Developer-6-1.png" alt="Himanshi-Ahir-UI-UX-Developer-6-1" border="0"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshiahir&label=Profile%20views&color=0e75b6&style=flat" alt="himanshiahir" /> </p>
 <h3>About</h3>
 <p>I believe in performance and branding which helps to grow business. A business can achieve massive success with the right optimization and good SEO.</p>
